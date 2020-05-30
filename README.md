@@ -14,3 +14,5 @@ to help make up for the relatively small amount of existing sampling data. Speci
 Thomas Himblot for providing us with a framework for the augmentation script!
 
 Created by: Marc Chmielewski, Andrew Sander, and Yi Chen (Duke, 2022)
+
+Note: This repository is a re-upload because I worked on this from my other account, but I couldn't migrate that repo to this account for some reason. You can see the original repo here: https://github.com/blucifer22/catchem-all
